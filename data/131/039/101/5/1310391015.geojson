@@ -37,8 +37,7 @@
     "wof:belongsto":[
         102191573,
         85632269,
-        85675291,
-        421204117
+        85675291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,7 +57,7 @@
     "wof:id":1310391015,
     "wof:lastmodified":1566648789,
     "wof:name":"Lamorde",
-    "wof:parent_id":421204117,
+    "wof:parent_id":85675291,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ne",
     "wof:superseded_by":[],
